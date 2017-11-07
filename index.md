@@ -1,8 +1,6 @@
 ## Algebraische Zahlentheorie 1
 Dozent:   Prof. Dr. Gebhard Böckle 
-
 [Homepage](http://typo.iwr.uni-heidelberg.de/groups/arith-geom/home/members/david-guiraud/algebraische-zahlentheorie-1/)
-
 Wintersemester 17/18, Universität Heidelberg
 
 ### Mitschrieb
