@@ -1,22 +1,4 @@
 ## Algebraische Zahlentheorie 1
 ### Mitschrieb
-- [ANT1-01](https://drive.google.com/open?id=0B738tM3wQ8k9WHhBOU5paXZCdnc) 
-- [ANT1-02](https://drive.google.com/open?id=0B738tM3wQ8k9WlNPb19IODA0ZEU)
-- [ANT1-03](https://drive.google.com/open?id=0B738tM3wQ8k9ME9SYkNGSkR4U0U)
-- [ANT1-04](https://drive.google.com/open?id=0B738tM3wQ8k9WkozOVJfQ3BZUE0)
-- [ANT1-05](https://drive.google.com/open?id=0B738tM3wQ8k9NFZSMm81Uk54eGc)
-- [ANT1-06](https://drive.google.com/open?id=0B738tM3wQ8k9OEk2ZzlZclc4STQ)
-- [ANT1-07](https://drive.google.com/open?id=0B738tM3wQ8k9dmI0UTdTVlZ6Vlk)
-- [ANT1-08](https://drive.google.com/open?id=0B738tM3wQ8k9ZEYyN0tjc3NLazg)
-- [ANT1-09](https://drive.google.com/open?id=0B738tM3wQ8k9eU96UTN6bjVKR3c)
-- [ANT1-10](https://drive.google.com/open?id=0B738tM3wQ8k9Y1BxbkNqOGN5Y1E)
-- [ANT1-11](https://drive.google.com/open?id=0B738tM3wQ8k9V0s4SFJhWlNXVDQ)
-- [ANT1-12](https://drive.google.com/open?id=0B738tM3wQ8k9eU1GX0V0Q2docVk)
-- [ANT1-13](https://drive.google.com/open?id=0B738tM3wQ8k9ODZjbkg0eF8xNkk)
-- [ANT1-14](https://drive.google.com/open?id=0B738tM3wQ8k9SnpjWmhJYXNhYlk)
-- [ANT1-15](https://drive.google.com/open?id=0B738tM3wQ8k9WEVseVV0aGt2QTg)
-- [ANT1-16](https://drive.google.com/open?id=1EtOfYzNBgYlnqfdpr3ZBSuAS1W7EGPTF)
-- [ANT1-17](https://drive.google.com/open?id=1R4oQTPhcxGItrif0WTXGeXj14xH8xz0R)
-- [ANT1-18](https://drive.google.com/open?id=1TXILthntUVI1EoAnH86wHZ1mzRye0znp)
-- [ANT1-19-part](https://drive.google.com/open?id=1B8T1V00sH3trt3RUHj5LUpjSclsrDXVS)
+ [01](https://drive.google.com/open?id=0B738tM3wQ8k9WHhBOU5paXZCdnc)     [02](https://drive.google.com/open?id=0B738tM3wQ8k9WlNPb19IODA0ZEU)     [03](https://drive.google.com/open?id=0B738tM3wQ8k9ME9SYkNGSkR4U0U)     [04](https://drive.google.com/open?id=0B738tM3wQ8k9WkozOVJfQ3BZUE0)     [05](https://drive.google.com/open?id=0B738tM3wQ8k9NFZSMm81Uk54eGc)     [06](https://drive.google.com/open?id=0B738tM3wQ8k9OEk2ZzlZclc4STQ)   [07](https://drive.google.com/open?id=0B738tM3wQ8k9dmI0UTdTVlZ6Vlk)     [08](https://drive.google.com/open?id=0B738tM3wQ8k9ZEYyN0tjc3NLazg)     [09](https://drive.google.com/open?id=0B738tM3wQ8k9eU96UTN6bjVKR3c)     [10](https://drive.google.com/open?id=0B738tM3wQ8k9Y1BxbkNqOGN5Y1E)     [11](https://drive.google.com/open?id=0B738tM3wQ8k9V0s4SFJhWlNXVDQ)     [12](https://drive.google.com/open?id=0B738tM3wQ8k9eU1GX0V0Q2docVk)     [13](https://drive.google.com/open?id=0B738tM3wQ8k9ODZjbkg0eF8xNkk)     [14](https://drive.google.com/open?id=0B738tM3wQ8k9SnpjWmhJYXNhYlk)    [15](https://drive.google.com/open?id=0B738tM3wQ8k9WEVseVV0aGt2QTg)     [16](https://drive.google.com/open?id=1EtOfYzNBgYlnqfdpr3ZBSuAS1W7EGPTF)     [17](https://drive.google.com/open?id=1R4oQTPhcxGItrif0WTXGeXj14xH8xz0R)     [18](https://drive.google.com/open?id=1TXILthntUVI1EoAnH86wHZ1mzRye0znp)     [19-part](https://drive.google.com/open?id=1B8T1V00sH3trt3RUHj5LUpjSclsrDXVS)
 
