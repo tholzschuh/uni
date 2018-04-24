@@ -3,7 +3,9 @@ Böckle | [Homepage](http://typo.iwr.uni-heidelberg.de/groups/arith-geom/home/me
 
 ## Mitschrieb
 [Algebraische Zahlentheorie II](https://github.com/tholzschuh/uni-files/raw/master/ant2/ant2.pdf)
+
 [Vorlesung 01+02](https://github.com/tholzschuh/uni-files/raw/master/ant2/lec0102.pdf)
+
 [Vorlesung 03](https://github.com/tholzschuh/uni-files/raw/master/ant2/lec03.pdf)
 
 ## Übungen
