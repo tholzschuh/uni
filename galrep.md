@@ -3,3 +3,5 @@ Conti | [Homepage](https://sites.google.com/site/andreacontimath/teaching/univer
 
 ## Mitschrieb
 [Galois representations and their deformations](https://github.com/tholzschuh/uni-files/raw/master/galrep/galrep.pdf)
+
+[01](https://github.com/tholzschuh/uni-files/raw/master/galrep/lec-01.pdf)     [02](https://github.com/tholzschuh/uni-files/raw/master/galrep/lec-02.pdf)
