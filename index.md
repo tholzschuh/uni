@@ -1,4 +1,4 @@
-## WS 18
+## WS 18/19
 * [Algebraische Geometrie I](https://tholzschuh.github.io/uni/alggeo1)
 
 ## SS 18
