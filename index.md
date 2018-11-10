@@ -1,3 +1,6 @@
+## WS 18
+* [Algebraische Geometrie I](https://tholzschuh.github.io/uni/alggeo1)
+
 ## SS 18
 * [Algebraische Zahlentheorie II](https://tholzschuh.github.io/uni/ant2)
 * [Algebraische Gruppen](https://tholzschuh.github.io/uni/alggrp)
